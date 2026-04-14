@@ -2,12 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/cookie-decorating-kit/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/
+            http://localhost:8000/diy-craft-kits-to-relax-your-mind/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/cultural-activity-kits-for-family-bonding/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/kids-activity-kits-that-keep-everyone-calm/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/at-home-date-night-kits/
         </loc>
     </url>
     <url>
@@ -17,12 +32,42 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/home/
+            http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/posts/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/signup/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/diy-candle-making-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/cookie-decorating-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/paint-night-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/cultural-cooking-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/kids-slime-kit/
         </loc>
     </url>
     <url>
